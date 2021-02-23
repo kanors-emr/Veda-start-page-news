@@ -3,45 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-From developers
-================
+From the developers
+===================
 
 .. note::
-    Veda installers will be available on Github from now on: https://github.com/kanors-emr/Veda2.0-Installation
+    I encourage users to update to version 220 as it has important enhancements and bug fixes.
 
 
-**VERSION HISTORY**
-
-219 [20Feb21]
-
-ALL VERSIONS
-
-
-* License and maintenance status reflect on the main form
-
-* Application version displayed on bottom right of the screen (not on the title of main form anymore)
-
-* localhost version should work on some machines where it did not
-
-* Results: View names QC for characters that are not permissible as Excel sheet names
-
-* Results: Close all button added
-
-* Results: views can be exported to CSV without loading into pivot grids
-
-* several enhancements on GDX reference forms (Run manager)
-
-* Debug: "too many clients" error when writing a large number of DD files (DD writing more efficient)
-
-* Debug: sub-totals were appearing after some pivoting operations
+Announcements:
+   * We have emailed permanent license keys to "license admins" for all users. Let us know if you intend to use Veda2.0 and did not receive a key yet.
+   * Installers will be `available on Github <https://github.com/kanors-emr/Veda2.0-Installation>`_ from now on.
+   * Data GDX files that are imported automatically after each run are taking too much space in the database. I suggest that users delete data GDX information from the database periodically till we fix this issue (Model - Manage disc space - database.. GDX tab). The original GDX files will be available in "\Gamssave\" anyway, so they can be imported when needed (Tools - Import GDX Files).
 
 
-ACADEMIC/STANDARD/ADVANCED
-
-
-Scenario groups (from Run manager) available to filter scenarios in Browse (like process/commodity sets)
-
-
+`Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_
 
 .. .. toctree::
    :maxdepth: 2
