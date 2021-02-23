@@ -10,7 +10,7 @@ From developers
     Veda installers will be available on Github from now on: https://github.com/kanors-emr/Veda2.0-Installation
 
 
-VERSION HISTORY
+**VERSION HISTORY**
 
 219 [20Feb21]
 
