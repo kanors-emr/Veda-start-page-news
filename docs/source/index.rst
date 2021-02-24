@@ -3,9 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-::
 
-    I encourage users to update to version 220 as it has important enhancements and bug fixes.
+.. topic:: \
+
+ I encourage users to update to version 220 as it has important enhancements and bug fixes.
 
 Announcements:
    * We have emailed permanent license keys to "license admins" for all users. Let us know if you intend to use Veda2.0 and did not receive a key yet.
