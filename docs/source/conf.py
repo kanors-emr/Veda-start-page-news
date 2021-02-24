@@ -57,4 +57,6 @@ html_static_path = ['_static']
 html_theme_options = {
     # Disable showing the sidebar. Defaults to 'false'
     'nosidebar': True,
+    'page_width': 'auto',
+    'body_max_width': 'auto'
 }
