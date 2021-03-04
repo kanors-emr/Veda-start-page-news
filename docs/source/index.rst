@@ -6,7 +6,7 @@
 
 .. topic:: \
 
- I encourage users to update to version 225, which will be released early this week. Enhancements in default layout will improve the Browse experience significantly.
+ I encourage users to update to version 225, which will be released this week. Enhancements in default layout will improve the Browse experience significantly.
 
 Announcements:
    * We have emailed permanent license keys to "license admins" for all users. Let us know if you intend to use Veda2.0 and did not receive a key yet.
