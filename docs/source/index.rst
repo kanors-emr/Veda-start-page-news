@@ -6,7 +6,7 @@
 
 .. topic:: \
 
- Please wait for version 227.
+ Version 227 has been released.
 
 Announcements:
    * I encourage users to update to version 227. Enhancements in layout will improve the Browse experience significantly.
