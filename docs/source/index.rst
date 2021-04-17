@@ -6,7 +6,7 @@
 
 .. topic:: \
 
- Version 230 has been released.
+Version 231 has been released.
 
 Announcements:
    * I encourage users to update to version 230. Major enhancements - batch sync and backup/restore state will make it a lot easier to upgrade versions.
