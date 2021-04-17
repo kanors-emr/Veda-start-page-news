@@ -6,12 +6,11 @@
 
 .. topic:: \
 
-Version 231 has been released.
+`Version 231<https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
 
 Announcements:
    * I encourage users to update to version 230. Major enhancements - batch sync and backup/restore state will make it a lot easier to upgrade versions.
    * We have emailed permanent license keys to "license admins" for all users. Let us know if you intend to use Veda2.0 and did not receive a key yet.
-   * Installers will be `available on Github <https://github.com/kanors-emr/Veda2.0-Installation>`_ from now on.
 
 `Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_
 
