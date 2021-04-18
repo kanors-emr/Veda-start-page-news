@@ -14,8 +14,5 @@ Announcements:
 
 `Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_
 
-
-
-
-
-
+.. note::
+    **Migrating models to Veda2.0 requires familiarity with the model database and Veda_FE/BE. I request users to NOT delegate this task to new members of the team.**
