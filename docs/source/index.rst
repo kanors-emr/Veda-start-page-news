@@ -9,10 +9,10 @@
 `Version 231 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
 
 Announcements:
-   * I encourage users to update to version 230 (or higher). Major enhancements - batch sync and backup/restore state will make it a lot easier to upgrade versions.
+   * We encourage users to update to version 230 (or higher). Major enhancements - batch sync and backup/restore state will make it a lot easier to upgrade versions.
    * We have emailed permanent license keys to "license admins" for all users. Let us know if you intend to use Veda2.0 and did not receive a key yet.
 
 `Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_
 
 .. note::
-    **Migrating models to Veda2.0 requires familiarity with the model database and Veda_FE/BE. I request users to NOT delegate this task to new members of the team.**
+    **Migrating models to Veda2.0 requires familiarity with the model database and Veda_FE/BE. Users are requested to NOT delegate this task to new members of the team.**
