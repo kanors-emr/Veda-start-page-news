@@ -6,7 +6,8 @@
 
 .. topic:: \
 
-26 June 2021 `Version 234 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
+26 June 2021
+`Version 234 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
 
    * If you are using version 230 or 231, you can use "Backup State" under Model menu. "Restore State" under version 232 will Re-synchronize all models and import all VD files that were a part of the old version.
    * We encourage users to update to version 230 (or higher). Major enhancements - batch sync and backup/restore state will make it a lot easier to upgrade versions.
