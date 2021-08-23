@@ -6,11 +6,11 @@
 
 .. topic:: \
 
-07 August 2021
+23 August 2021
 
-`Version 238 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
+`Version 239 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
 
-   * **Major enhancement in Items Detail view - colors and icon to indicate set membership and PCG**.
+   * **Reports functionality will be available under all license types till 31 Dec 21**.
    * `Reports <https://veda-documentation.readthedocs.io/en/latest/pages/Reports.html>`_ section has been added in Veda documentation. It should be a welcome relief for those relying on "Update Excel", after some investment in setting this up in the new environment.
    * If you are using version 230 or higher, you can use "Backup State" under Model menu. "Restore State" under higher will Re-synchronize all models and import all VD files that were a part of the old version.
 
