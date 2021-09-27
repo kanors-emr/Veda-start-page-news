@@ -6,9 +6,9 @@
 
 .. topic:: \
 
-25 September 2021
+27 September 2021
 
-`Version 241 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
+`Version 242 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
 
    * **Reports functionality will be available under all license types till 31 Dec 21**.
    * `ETSAP webinar <https://youtu.be/ri6asoxXcRg>`_ on setting up Report definitions file and using the Reports browser in Veda2.0.
