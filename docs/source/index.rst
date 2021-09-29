@@ -7,8 +7,7 @@
 .. topic:: \
 
 .. note::
-   29 September 2021
-    **Users of TIMES code versions 455, 456, and 457 are requested to download version 458. It would be prudent to delete these versions, to prevent their inadvertent use with saved cases.**
+    **[29 Sep 21] Users of TIMES code versions 455, 456, and 457 are requested to download version 458. It would be prudent to delete these versions, to prevent their inadvertent use with saved cases.**
 
 27 September 2021
 
