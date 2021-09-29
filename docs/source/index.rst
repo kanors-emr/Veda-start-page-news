@@ -7,7 +7,7 @@
 .. topic:: \
 
 .. note::
-    **[29 Sep 21] Users of TIMES code versions 455, 456, and 457 are requested to download version 458. It would be prudent to delete these versions, to prevent their inadvertent use with saved cases.**
+    **[Alert] Any users of TIMES v455–v457 are advised to upgrade to TIMES v4.5.8. In versions v455–v457 a capacity lower bound CAP_BND(LO) may be erroneously ignored if CAP_BND(UP) is also defined for the same process in the same period. It would be prudent to delete these versions, to prevent their inadvertent use with saved cases.**
 
 27 September 2021
 
