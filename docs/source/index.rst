@@ -5,9 +5,9 @@
 
 .. topic:: \
 
-25 October 2021
+15 December 2021
 
-`Version 243 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
+`Version 247 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
 
    * If you are using version 230 or higher, you can use "Backup State" under Model menu. "Restore State" under higher will Re-synchronize all models and import all VD files that were a part of the old version.
    * **Reports functionality will be available under all license types till 31 Dec 21**.
@@ -16,4 +16,4 @@
 `Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_
 
 .. note::
-    **[Alert]** Any users of **TIMES v455–v457** are advised to upgrade to **TIMES v4.5.8**. In versions v455–v457 a capacity lower bound CAP_BND(LO) may be erroneously ignored if CAP_BND(UP) is also defined for the same process in the same period. It would be prudent to delete these versions, to prevent their inadvertent use with saved cases.
+    `Veda Online (VO) <https://vedaonline.cloud/>`_ is freely available for testing right now.
