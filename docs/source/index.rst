@@ -8,7 +8,7 @@
 .. note::
     Some users have experienced issues under Windows 11. We recommend upgrading to Win 11 after it matures a bit.
 
-11 Sep 2022
+11 Oct 2022
 
 `Version 2.005.1.1 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
 
