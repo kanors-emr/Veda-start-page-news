@@ -18,4 +18,4 @@
 `Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_
 
 .. note::
-    `Veda Online (VO) <https://vedaonline.cloud/>`_ is available for testing at least till 31 December 2022.
+    `Veda Online (VO) <https://vedaonline.cloud/>`_ is available for testing at least till 31 March 2023.
