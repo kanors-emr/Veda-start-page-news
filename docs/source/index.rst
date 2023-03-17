@@ -14,7 +14,7 @@
 
    * If you are using version 230 or higher, you can use "Backup State" under Model menu. "Restore State" under higher will Re-synchronize all models and import all VD files that were a part of the old version.
    * Importing multiple SubRES files will not create deadlocks anymore.
-   * **Fixed an issue with submitting runs to GAMS Engine.**
+   * **New TIMES feature - Logit Market Share supported**
 
 `Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_
 
