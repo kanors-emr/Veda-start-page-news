@@ -8,9 +8,9 @@
 .. note::
     Some users have experienced issues under Windows 11. We recommend upgrading to Win 11 after it matures a bit.
 
-21 Oct 2022
+17 Mar 2023
 
-`Version 2.005.1.2 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
+`Version 2.010.1.1 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
 
    * If you are using version 230 or higher, you can use "Backup State" under Model menu. "Restore State" under higher will Re-synchronize all models and import all VD files that were a part of the old version.
    * Importing multiple SubRES files will not create deadlocks anymore.
