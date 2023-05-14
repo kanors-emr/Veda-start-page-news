@@ -20,4 +20,4 @@
 `Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_
 
 .. note::
-    `Veda Online (VO) <https://vedaonline.cloud/>`_ is available for testing at least till 31 March 2023.
+    `Veda Online (VO) <https://vedaonline.cloud/>`_ has been launched as a paid service. New users automatically get fully functional trial license (for 7 days) with 5 hours of solve time in the cloud.
