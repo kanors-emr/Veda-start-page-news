@@ -5,9 +5,6 @@
 
 .. topic:: \
 
-.. note::
-    Some users have experienced issues under Windows 11. We recommend upgrading to Win 11 after it matures a bit.
-
 08 July 2023
 
 `Version 2.014.1.1 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
@@ -22,3 +19,6 @@
 
 .. note::
     `Veda Online (VO) <https://vedaonline.cloud/>`_ has been launched as a subscription service. New users automatically get fully functional trial license (for 7 days) with 5 hours of solve time in the cloud.
+
+.. note::
+    Some users have experienced issues under Windows 11. We recommend upgrading to Win 11 after it matures a bit.
