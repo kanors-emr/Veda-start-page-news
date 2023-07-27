@@ -12,10 +12,9 @@
    * If you are using version 230 or higher, you can use "Backup State" under Model menu. "Restore State" under higher will Re-synchronize all models and import all VD files that were a part of the old version.
    * CmdF_Top attribute introduced to inject code before the GAMS call in VTRUN.CMD file.
    * Users can specify namespace and model under GAMS Engine settings (Case Manager).
+   * Variables $case_name and $vd_file_name introduced in the VTRUN.CMD file, which can help automatic post-processing routines.
    * We have started developing "Veda Assistant" (VA) functionality that would prove useful for new users as well power users.See "Create Tag" button on Information - Veda and TIMES Parameters.
          * Process/commodity lists are shown on VA - as per the process/commodity filters.
-
-   * Variables $case_name and $vd_file_name introduced in the VTRUN.CMD file, which can help automatic post-processing routines.
 
 `Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_
 
