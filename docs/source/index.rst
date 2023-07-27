@@ -15,6 +15,8 @@
    * Variables $case_name and $vd_file_name introduced in the VTRUN.CMD file, which can help automatic post-processing routines.
    * We have started developing "Veda Assistant" (VA) functionality that would prove useful for new users as well power users.See "Create Tag" button on Information - Veda and TIMES Parameters.
 
+      * Process/commodity lists are shown on VA - as per the process/commodity filters.
+
 `Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_
 
 .. note::
