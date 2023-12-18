@@ -10,7 +10,7 @@
 `Version 3.0.2.0 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
 
 .. note::
-   This is a major release. Your license should be under maintenance on 28 November 2023 to be able to use this version (and above)
+   This is a major release. Your license should have maintenance covered beyond 28 November 2023 to be able to use this version (and above)
 
 
 * Excel file reading and writing is now done using a third-party library `ASPOSE <https://products.aspose.com/cells/>`_. This makes the synchronization process much faster, and also more robust, because we no loger rely on the local Excel installation.
