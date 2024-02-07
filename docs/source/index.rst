@@ -5,9 +5,9 @@
 
 .. .. topic::
 
-06 February 2024
+07 February 2024
 
-`Version 3.0.4.0 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released. This fixes a bug related to DINS tables in BY/SubRES Trans files that was introduced in version 3.0.3.
+`Version 3.0.5.0 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released. This fixes a bug related to DINS tables in BY/SubRES Trans files that was introduced in version 3.0.3.
 
 .. caution::
    This is a major release. Your license should have maintenance covered beyond 28 November 2023 to be able to use this version (and above)
