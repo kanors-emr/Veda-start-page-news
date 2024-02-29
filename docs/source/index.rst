@@ -5,9 +5,9 @@
 
 .. .. topic::
 
-08 February 2024
+23 February 2024
 
-**PLEASE STAY WITH VERSION 3.0.2.0 FOR NOW. 3.0.6.0 WILL BE RELEASED NEXT WEEK**
+`Version 3.0.7.0 <https://github.com/kanors-emr/Veda2.0-Installation/releases/>`_ has been released.
 
 .. caution::
    This is a major release. Your license should have maintenance covered beyond 28 November 2023 to be able to use this version (and above)
