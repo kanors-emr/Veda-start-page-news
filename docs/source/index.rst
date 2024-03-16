@@ -14,7 +14,7 @@
 
 
 * Excel file reading and writing is now done using a third-party library `ASPOSE <https://products.aspose.com/cells/>`_. This makes the synchronization process much faster, and also more robust, because we no loger rely on the local Excel installation.
-* We have started developing "Veda Assistant" (VA) functionality that would prove useful for new users as well power users.See "Create Tag" button on Information - Veda and TIMES Parameters.
+* We have started developing "Veda Assistant" (VA) functionality that would prove useful for new users as well as for power users. See "Assistant" under the Tools menu.
 
    * Process/commodity lists are shown on VA - as per the process/commodity filters.
 
