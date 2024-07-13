@@ -5,15 +5,14 @@
 
 .. .. topic::
 
-27 April 2024
+13 July 2024
 
 `Version 3.1.2.0 <https://github.com/kanors-emr/Veda2.0-Installation/releases/latest/>`_ has been released.
 
 .. caution::
    This is a major release. Your license should have maintenance covered beyond 28 November 2023 to be able to use this version (and above)
 
-
-* This version has several important enhancements, several driven by user requests and suggestions. There is also a bug fix relating to the location of Fill-R output, which was introduced when we started using Aspose for reading Excel files. So, all users on Version 3+ are requested to use this update at their earliest convenience.
+* Reports and some other Advanced license features have been activated for the ETSAP license. This will be reviewed at the Winter 2024 ETSAP meeting.
 
 `Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_
 
