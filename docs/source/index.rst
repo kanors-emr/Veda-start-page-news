@@ -9,6 +9,9 @@
 
 `Version 4.0.0.0 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v4.0.0.0>`_ has been released.
 
+Users of licenses with maintenance expiration before **October 25, 2024** are advised to use
+version 3.2.1, which is the final release within the major version **3** (`download <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v3.2.1.0>`_).
+
 .. caution::
    This is a major release. Your license should have maintenance covered beyond 25 October 2024 to be able to use this version (and above)
 
