@@ -5,14 +5,13 @@
 
 .. .. topic::
 
-17 July 2024
+07 November 2024
 
-`Version 3.1.3.0 <https://github.com/kanors-emr/Veda2.0-Installation/releases/latest/>`_ has been released.
+`Version 4.0.0.0 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v4.0.0.0>`_ has been released.
 
 .. caution::
-   This is a major release. Your license should have maintenance covered beyond 28 November 2023 to be able to use this version (and above)
+   This is a major release. Your license should have maintenance covered beyond 25 October 2024 to be able to use this version (and above)
 
-* Reports and some other Advanced license features have been activated for the ETSAP license. This will be reviewed at the Winter 2024 ETSAP meeting.
 
 `Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_
 
