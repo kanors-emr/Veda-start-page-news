@@ -5,9 +5,9 @@
 
 .. .. topic::
 
-07 November 2024
+17 November 2024
 
-`Version 4.0.0.0 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v4.0.0.0>`_ has been released.
+`Version 4.0.1.0 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v4.0.1.0>`_ has been released.
 
 .. caution::
    This is a major release. Your license should have maintenance covered beyond 25 October 2024 to be able to use this version (and above)
