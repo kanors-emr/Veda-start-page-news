@@ -5,15 +5,22 @@
 
 .. .. topic::
 
-17 November 2024
+17 May 2025
 
-`Version 4.0.1.0 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v4.0.1.0>`_ has been released.
+`Version 4.1.1.0 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
+
+Several major updates in this version:
+   * Users can now add TIMES attributes on their own.
+   * New ~FI_PROCESS_Trades tag supported in the Trade links file for better control on Trade processes.
+   * UI/UX improvements: updated splash screen, streamlined icons, and interface tweaks.
+   * index splitting
+   * seed value exceptions
 
 .. caution::
-   This is a major release. Your license should have maintenance covered beyond 25 October 2024 to be able to use this version (and above)
+   Your license should have maintenance covered beyond 25 October 2024 to be able to use this version (and above)
 
 Users of licenses with maintenance expiration before **October 25, 2024** are advised to use
-version 3.2.1, which is the final release within the major version **3** (`download <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v3.2.1.0>`_).
+version 3.2.2, which is the final release within the major version **3** (`download <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v3.2.2.0>`_).
 
 `Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_
 
