@@ -10,7 +10,7 @@
 `Version 4.1.1.0 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
 
 Several major updates in this version:
-   * Users can now add TIMES attributes on their own.
+   * Users can now add TIMES attributes on their own - via UserTimesAttributes.xlsx file in the Model folder.
    * New ~FI_PROCESS_Trades tag supported in the Trade links file for better control on Trade processes.
    * UI/UX improvements: updated splash screen, streamlined icons, and interface tweaks.
    * index splitting
