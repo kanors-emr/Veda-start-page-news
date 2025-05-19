@@ -12,9 +12,7 @@
 Several major updates in this version:
    * Users can now add TIMES attributes on their own - via UserTimesAttributes.xlsx file in the Model folder.
    * New ~FI_PROCESS_Trades tag supported in the Trade links file for better control on Trade processes.
-   * UI/UX improvements: updated splash screen, streamlined icons, and interface tweaks.
-   * index splitting
-   * seed value exceptions
+   * PostgreSQL Server upgraded to version 15.9.
 
 .. caution::
    Your license should have maintenance covered beyond 25 October 2024 to be able to use this version (and above)
