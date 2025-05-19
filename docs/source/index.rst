@@ -7,7 +7,7 @@
 
 17 May 2025
 
-`Version 4.1.1.0 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
+`Version 4.1.1.0 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v4.1.1.0>`_ has been released.
 
 Several major updates in this version:
    * Users can now add TIMES attributes on their own - via UserTimesAttributes.xlsx file in the Model folder.
