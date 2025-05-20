@@ -10,7 +10,7 @@
 `Version 4.1.1.0 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v4.1.1.0>`_ has been released.
 
 Several major updates in this version:
-   * Advanced and Academic licenses support the OSeMOSYS model.
+   * **Advanced and Academic licenses support the OSeMOSYS model**.
    * Users can now add TIMES attributes on their own - via UserTimesAttributes.xlsx file in the Model folder.
    * New ~FI_PROCESS_Trades tag supported in the Trade links file for better control on Trade processes.
    * PostgreSQL Server upgraded to version 15.9.
