@@ -5,9 +5,9 @@
 
 .. .. topic::
 
-17 May 2025
+21 May 2025
 
-`Version 4.1.1.0 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v4.1.1.0>`_ has been released.
+`Version 4.1.1.1 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v4.1.1.1>`_ has been released.
 
 Several major updates in this version:
    * **Advanced and Academic licenses support the OSeMOSYS model**.
