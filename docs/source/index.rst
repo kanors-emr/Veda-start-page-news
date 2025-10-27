@@ -5,15 +5,14 @@
 
 .. .. topic::
 
-21 May 2025
+17 October 2025
 
-`Version 4.1.1.1 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v4.1.1.1>`_ has been released.
+`Version 4.2.1.0 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v4.2.1.0>`_ has been released.
 
 Several major updates in this version:
-   * **Advanced and Academic licenses support the OSeMOSYS model**.
-   * Users can now add TIMES attributes on their own - via UserTimesAttributes.xlsx file in the Model folder.
-   * New ~FI_PROCESS_Trades tag supported in the Trade links file for better control on Trade processes.
-   * PostgreSQL Server upgraded to version 15.9.
+   * **ETSAP license now supports the Advanced license features**.
+   * Timeslice definition is now supported in parametric scenarios. 
+   * Capacity and investment related flows are now visible in RES view.
 
 .. caution::
    Your license should have maintenance covered beyond 25 October 2024 to be able to use this version (and above)
