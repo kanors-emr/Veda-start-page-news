@@ -26,9 +26,9 @@ version 3.2.2, which is the final release within the major version **3** (`downl
 
    Three free resources for Veda users, advancing the `Open-Use <https://vervestacks.readthedocs.io/en/latest/community/open-use-movement.html>`_ vision of kanors-emr:
 
-   * `VerveStacks Documentation <https://vervestacks.readthedocs.io/en/latest/index.html>`_ - vision, methodology, getting-started guides, and model coverage.
-   * `VerveStacks Dashboard <https://vervestacks.cloud/>`_ - explore current trends and try the hourly simulator.
    * `vervestacks_models repository <https://github.com/akanudia/vervestacks_models>`_ - each country on its own branch with ``vt_*.xlsx``, scenario files, and validation charts; clone and open directly in Veda.
+   * `VerveStacks Dashboard <https://vervestacks.cloud/>`_ - explore current trends and try the hourly simulator.
+   * `VerveStacks Documentation <https://vervestacks.readthedocs.io/en/latest/index.html>`_ - vision, methodology, getting-started guides, and model coverage.  
 
 .. note::
    * `Veda Online (VO) <https://vedaonline.cloud/>`_ has been launched as a subscription service. New users automatically get fully functional trial license (for 7 days) with 5 hours of solve time in the cloud.
