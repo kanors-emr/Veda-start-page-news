@@ -22,21 +22,14 @@ version 3.2.2, which is the final release within the major version **3** (`downl
 
 `Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_
 
+.. topic:: VerveStacks
+
+   Three free resources for Veda users, advancing the `Open-Use <https://vervestacks.readthedocs.io/en/latest/community/open-use-movement.html>`_ vision of kanors-emr:
+
+   * `VerveStacks Documentation <https://vervestacks.readthedocs.io/en/latest/index.html>`_ - vision, methodology, getting-started guides, and model coverage.
+   * `VerveStacks Dashboard <https://vervestacks.cloud/>`_ - explore current trends and try the hourly simulator.
+   * `vervestacks_models repository <https://github.com/akanudia/vervestacks_models>`_ - each country on its own branch with ``vt_*.xlsx``, scenario files, and validation charts; clone and open directly in Veda.
+
 .. note::
    * `Veda Online (VO) <https://vedaonline.cloud/>`_ has been launched as a subscription service. New users automatically get fully functional trial license (for 7 days) with 5 hours of solve time in the cloud.
    * Veda works well under Windows 11.
-
-Open-Use energy modeling with VerveStacks
------------------------------------------
-
-**Energy system modeling, reimagined for use.** VerveStacks publishes professionally
-curated, decision-grade country-level TIMES models that are ready to run in Veda on
-day one. The aim is to shift effort from *building* models to *using* them, so that
-policy makers, analysts, researchers, and students can focus on scenarios and
-interpretation rather than data wrangling.
-
-Three free resources for Veda users:
-
-* `VerveStacks Documentation <https://vervestacks.readthedocs.io/en/latest/index.html>`_ - vision, methodology, getting-started guides, and model coverage.
-* `VerveStacks Dashboard <https://vervestacks.cloud/>`_ - interactive model library to browse available countries.
-* `vervestacks_models repository <https://github.com/akanudia/vervestacks_models>`_ - each country on its own branch with ``vt_*.xlsx``, scenario files, and validation charts; clone and open directly in Veda.
