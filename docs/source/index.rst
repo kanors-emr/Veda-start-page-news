@@ -20,7 +20,7 @@ Several major updates in this version:
 Users of licenses with maintenance expiration before **October 25, 2024** are advised to use
 version 3.2.2, which is the final release within the major version **3** (`download <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v3.2.2.0>`_).
 
-`Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_
+`Version History <https://kanors-emr.github.io/Veda-documentation/version-history/>`_
 
 .. topic:: VerveStacks
 
