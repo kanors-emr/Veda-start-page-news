@@ -5,15 +5,14 @@
 
 .. .. topic::
 
-24 August 2026
+18 April 2026
 
-`Version 4.4.0.0 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v4.4.0.0>`_ has been released.
+`Version 4.3.2.1 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v4.3.2.1>`_ has been released.
 
 Several major updates in this version:
-   * **Built-in Jacobian workflow** – Browse your Jacobian list and open any analysis directly in Veda2.0, without switching to external tools.
-   * **Stronger parametric scenarios** – RF/SFCmd support in Parscen, faster import for large scenario sets, and accurate case counts.
-   * **Faster startup without internet** – On offline or restricted networks, Veda2.0 now opens in seconds instead of waiting minutes for license and network checks to finish.
-   * **More reliable multi-case runs** – Sequential model runs and Run Status logging work correctly, so long run queues finish without surprises.
+   * **ETSAP license now supports the Advanced license features**.
+   * The `Cmd` attributes of Veda are now supported in parametric scenarios. 
+   * RegionGroup feature is now supported in several more tags and positions.
 
 .. caution::
    Your license should have maintenance covered beyond 25 October 2024 to be able to use this version (and above)
