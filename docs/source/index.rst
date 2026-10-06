@@ -5,20 +5,26 @@
 
 .. .. topic::
 
-18 April 2026
+30 September 2026
 
-`Version 4.3.2.1 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v4.3.2.1>`_ has been released.
+`Version 5.0.0.0 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v5.0.0.0>`_ has been released.
 
-Several major updates in this version:
-   * **ETSAP license now supports the Advanced license features**.
-   * The `Cmd` attributes of Veda are now supported in parametric scenarios. 
-   * RegionGroup feature is now supported in several more tags and positions.
+Introducing the **Veda Excel Add-In** - work with your model directly from Excel:
+
+   * **Explore the data behind your cells** - view model data for selected cells, rows, or columns in a pivot view.
+   * **Build Veda tag tables** - insert tags and add missing column headers from the Veda ribbon or right-click menu.
+   * **Check your row filters** - see which processes and commodities match before syncing your changes.
+
+The add-in is included with Veda 5 and requires a separate installation. See the `Excel Add-In guide <https://kanors-emr.github.io/Veda-documentation/excel-addin/>`_ for installation and getting started.
+
+Try it and share your questions or feedback at **support@kanors.com** or **deepak@kanors.com**.
 
 .. caution::
-   Your license should have maintenance covered beyond 25 October 2024 to be able to use this version (and above)
+   This is a major release. Your license maintenance must be active **after 24 September 2026** to use version 5 and later releases. Check your maintenance validity before upgrading.
 
-Users of licenses with maintenance expiration before **October 25, 2024** are advised to use
-version 3.2.2, which is the final release within the major version **3** (`download <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v3.2.2.0>`_).
+Users whose maintenance expired **on or before 24 September 2026**, but who are eligible for version 4, should use **version 4.5.0.0**, the final release within major version **4** (`download <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v4.5.0.0>`_).
+
+Users whose maintenance expired before **25 October 2024** should continue using **version 3.2.2**, the final release within major version **3** (`download <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v3.2.2.0>`_).
 
 `Version History <https://kanors-emr.github.io/Veda-documentation/version-history/>`_
 
